@@ -1,0 +1,1 @@
+Silly cat errors counter
